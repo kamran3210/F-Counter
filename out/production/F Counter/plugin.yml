@@ -1,9 +1,0 @@
-name: FCounter
-version: 1.0
-author: Kamran
-main: com.kamran.fcounter.FCounter
-api-version: 1.17
-commands:
-  fcounter:
-    description: Get information about the player's f stats
-    usage: 'Usage: /fcounter [stats|reset] <player>'
