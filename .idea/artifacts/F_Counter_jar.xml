@@ -1,9 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="F Counter:jar">
-    <output-path>$PROJECT_DIR$/../Server/plugins</output-path>
-    <root id="archive" name="F Counter.jar">
-      <element id="module-output" name="F Counter" />
-      <element id="extracted-dir" path="$PROJECT_DIR$/../Dependencies/spigot-api-1.17.jar" path-in-jar="/" />
-    </root>
-  </artifact>
-</component>
